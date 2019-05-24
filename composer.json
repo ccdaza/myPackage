@@ -1,0 +1,14 @@
+{
+    "name": "ccdaza/mipackage",
+    "description": "Mi primer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ccdaza",
+            "email": "ccdaza2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
