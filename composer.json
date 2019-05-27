@@ -13,7 +13,10 @@
     "require": {},
     "autoload": {
         "psr-0": {
-            "MiPackage": "src/"
+            "MiPackage\\": "src"
+        },
+        "psr-4" : {
+            "MiPackage\\": "src"
         }
     }
 }
